@@ -2,6 +2,7 @@
 An Obsidian Plugin that forces reading mode, controllable using keyboard shortcuts and the ribbon menu
 
 ## Installation
+- Download the zip file from [Releases](https://github.com/shubhmadhavan/obsidian-forced-reading-mode/releases)
 - Go to Obsidian > Settings > Community Plugins
 - Ensure 'Restricted Mode' is Off in order to use Community Plugins
 - (If not, turn it off and restart obsidian)
