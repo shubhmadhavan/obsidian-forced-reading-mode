@@ -1,5 +1,6 @@
 # obsidian-forced-reading-mode
-An Obsidian Plugin that forces reading mode, controllable using keyboard shortcuts and the ribbon menu
+An Obsidian Plugin that forces reading mode, making it persistent.
+Plugin is controllable using both keyboard shortcuts and the ribbon menu item.
 
 ## Installation
 - Download the zip file from [Releases](https://github.com/shubhmadhavan/obsidian-forced-reading-mode/releases)
@@ -12,6 +13,7 @@ An Obsidian Plugin that forces reading mode, controllable using keyboard shortcu
 
 ## Optional 
 - Go to hotkeys and set hotkey of choice
+- Ensure ribbon menu has plugin item from Settings > Appearance > Interface > Ribbon menu configuration
 
 ## Extra
 I have nothing to plug here. But here's a quote:
