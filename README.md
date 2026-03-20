@@ -1,5 +1,6 @@
 # obsidian-forced-reading-mode
-An Obsidian Plugin that forces reading mode, making it persistent.
+An [Obsidian](https://obsidian.md/) Plugin that forces reading mode, making it persistent.
+
 Plugin is controllable using both keyboard shortcuts and the ribbon menu item.
 
 ## Installation
