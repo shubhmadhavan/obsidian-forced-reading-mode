@@ -1,0 +1,10 @@
+{
+  "id": "force-reading-mode",
+  "name": "Force Reading Mode",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Toggle reading mode on all files, regardless of default settings.",
+  "author": "Shubh Madhavan",
+  "authorUrl": "https://github.com/shubhmadhavan/",
+  "main": "main.js"
+}
