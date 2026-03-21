@@ -4,7 +4,7 @@ An [Obsidian](https://obsidian.md/) Plugin that forces reading mode, making it p
 Plugin is controllable using both keyboard shortcuts and the ribbon menu item.
 
 ## Installation
-- Download the zip file from [Releases](https://github.com/shubhmadhavan/obsidian-forced-reading-mode/releases)
+- Download the zip file from [Releases](https://github.com/shubhmadhavan/obsidian-force-reading-mode/releases)
 - Go to Obsidian > Settings > Community Plugins
 - Ensure 'Restricted Mode' is Off in order to use Community Plugins
 - (If not, turn it off and restart obsidian)
